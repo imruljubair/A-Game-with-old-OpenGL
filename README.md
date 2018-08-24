@@ -1,4 +1,4 @@
-# A-Game-with-old-OpenGL
+# A Game with old OpenGL
 
 This is very simple game made with the older version of OpenGL.
 
